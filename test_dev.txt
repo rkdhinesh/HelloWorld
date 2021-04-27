@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-test_dev created
-added 2
-=======
 added line1
 test_dev created
->>>>>>> 611fd21a41107056c66d932b89b0e26bfff287d9
+added 2
